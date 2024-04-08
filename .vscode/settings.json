@@ -1,0 +1,20 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "esp_log.h": "c",
+    "nvs_flash.h": "c",
+    "esp_event.h": "c",
+    "event_groups.h": "c",
+    "task.h": "c",
+    "freertos.h": "c",
+    "stdio.h": "c",
+    "sdkconfig.h": "c",
+    "i2c.h": "c",
+    "compare": "cpp",
+    "cstdint": "cpp"
+  },
+  "idf.portWin": "COM6",
+  "idf.flashType": "UART",
+  "idf.adapterTargetName": "esp32"
+}
